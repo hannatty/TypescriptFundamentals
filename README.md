@@ -1,4 +1,4 @@
-# Sistema de Bancário Básico em TypeScript
+# Sistema Bancário Básico em TypeScript
 O objetivo do programa é fornecer funcionalidades básicas para gerenciar contas bancárias, enquanto explora os pilares da programação orientada a objetos.
 
 ## Funcionalidades
